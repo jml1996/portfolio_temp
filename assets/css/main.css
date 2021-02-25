@@ -1190,7 +1190,7 @@ input, select, textarea {
 
 	.poptrox-popup {
 		background: rgba(31, 34, 36, 0.925);
-		box-shadow: 0 1em 3em 0.5em rgba(0, 0, 0, 0.25);
+		box-shadow: 0 1em 3em 0.5em rgba(0, 0, 0, 0.829);
 		cursor: default;
 	}
 
@@ -1202,7 +1202,7 @@ input, select, textarea {
 			background-image: -moz-linear-gradient(to left, rgba(31,34,36,0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0)), -moz-linear-gradient(to right, rgba(31,34,36,0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0));
 			background-image: -webkit-linear-gradient(to left, rgba(31,34,36,0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0)), -webkit-linear-gradient(to right, rgba(31,34,36,0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0));
 			background-image: -ms-linear-gradient(to left, rgba(31,34,36,0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0)), -ms-linear-gradient(to right, rgba(31,34,36,0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0));
-			background-image: linear-gradient(to left, rgba(31,34,36,0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0)), linear-gradient(to right, rgba(31,34,36,0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0));
+			background-image: linear-gradient(to left, rgba(31, 34, 36, 0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0)), linear-gradient(to right, rgba(31,34,36,0.35), rgba(31,34,36,0) 10em, rgba(31,34,36,0));
 			content: '';
 			display: block;
 			height: 100%;
@@ -1260,16 +1260,16 @@ input, select, textarea {
 			left: 0;
 		}
 
-		.poptrox-popup .nav-next {
+		.poptrox- .nav-next {
 			right: 0;
 		}
 
 		.poptrox-popup .caption {
 			padding: 2em 2em 0.1em 2em ;
-			background-image: -moz-linear-gradient(to top, rgba(16,16,16,0.45) 25%, rgba(16,16,16,0) 100%);
-			background-image: -webkit-linear-gradient(to top, rgba(16,16,16,0.45) 25%, rgba(16,16,16,0) 100%);
-			background-image: -ms-linear-gradient(to top, rgba(16,16,16,0.45) 25%, rgba(16,16,16,0) 100%);
-			background-image: linear-gradient(to top, rgba(16,16,16,0.45) 25%, rgba(16,16,16,0) 100%);
+			background-image: -moz-linear-gradient(to top, rgba(16, 16, 16, 0.35) 25%, rgba(16,16,16,0) 100%);
+			background-image: -webkit-linear-gradient(to top, rgba(16, 16, 16, 0.35) 25%, rgba(16,16,16,0) 100%);
+			background-image: -ms-linear-gradient(to top, rgba(16, 16, 16, 0.35) 25%, rgba(16,16,16,0) 100%);
+			background-image: linear-gradient(to top, rgba(16, 16, 16, 0.829) 100%, rgba(16,16,16,0) 100%);
 			bottom: 0;
 			cursor: default;
 			left: 0;
@@ -1621,7 +1621,7 @@ input, select, textarea {
 				background-image: -moz-linear-gradient(to top, rgba(10,17,25,0.35) 5%, rgba(10,17,25,0) 35%);
 				background-image: -webkit-linear-gradient(to top, rgba(10,17,25,0.35) 5%, rgba(10,17,25,0) 35%);
 				background-image: -ms-linear-gradient(to top, rgba(10,17,25,0.35) 5%, rgba(10,17,25,0) 35%);
-				background-image: linear-gradient(to top, rgba(10,17,25,0.35) 5%, rgba(10,17,25,0) 35%);
+				background-image: linear-gradient(to top, rgba(38, 38, 39, 0.800) 20%, rgba(10,17,25,0) 20%);
 				pointer-events: none;
 				background-size: cover;
 				content: '';
